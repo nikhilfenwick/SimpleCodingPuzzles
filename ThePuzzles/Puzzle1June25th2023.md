@@ -10,6 +10,16 @@ Step One
 1. make sure the random number is between 0 and 10.
 1. display the random number on the output
 
+Step Two
+
+1. update the code in Step One, and turn it into a function called 'ReturnRandomNumber'.
+
+Step Three
+
+1. use the ReturnRandomNumber function to generate 99 random numbers.
+1. store these 99 numbers in an array.
+1. display the array.
+
 # general notes
 
 1. do it either in javascript or c sharp.
