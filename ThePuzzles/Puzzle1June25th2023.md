@@ -1,10 +1,18 @@
-# The Puzzles
+# Puzzle 1 
 
-Welcome to my humble puzzle collection. 
+A simple puzzle for students to tackle. 
 
-# List of Puzzles
+# Things to do
 
-1. [Puzzle1June25th2023](Puzzle1June25th2023.md)
+Step One
+
+1. use the random math function to create a random number
+1. make sure the random number is between 0 and 10.
+1. display the random number on the output
+
+# general notes
+
+1. do it either in javascript or c sharp.
 
 # Hire Me
 
