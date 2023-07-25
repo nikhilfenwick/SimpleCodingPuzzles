@@ -1,16 +1,10 @@
-# SimpleCodingPuzzles
+# The Puzzles - Solutions C Sharp
 
-a collection of simple puzzles for the beginniner coder to get better at coding.
+Welcome to my humble puzzle collection, and here, I have put the solutions, the C Sharp version. 
 
-read this [note](puzzlenote.md) about the puzzles themselves.
+# List of Puzzle Solutions
 
-if you want to contribute, [read here](contribute.md) for details.
-
-# Key folders
-
-1. [ThePuzzles](ThePuzzles)
-1. [SolutionsJavaScript](SolutionsJavaScript)
-1. [SolutionsCsharp](SolutionsCsharp)
+1. TobeAdded
 
 # Hire Me
 

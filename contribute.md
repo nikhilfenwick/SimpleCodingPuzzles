@@ -1,16 +1,9 @@
-# SimpleCodingPuzzles
+# Want to contribute?
 
-a collection of simple puzzles for the beginniner coder to get better at coding.
+If you understand the purpose of this repo, which you can [read here](puzzlenote.md), help me grow this. 
 
-read this [note](puzzlenote.md) about the puzzles themselves.
-
-if you want to contribute, [read here](contribute.md) for details.
-
-# Key folders
-
-1. [ThePuzzles](ThePuzzles)
-1. [SolutionsJavaScript](SolutionsJavaScript)
-1. [SolutionsCsharp](SolutionsCsharp)
+1. You can simply clone this repo and start adding puzzles, puzzle solutions and so on. if you are new to open source contributions, I have made a video here, https://youtu.be/VgUESSJLj9Y
+1. You want to take this up a serious hobby, or may be, work actively as a paid intern, reach out to me. different ways to contact me are available on my github profile. 
 
 # Hire Me
 

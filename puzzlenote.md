@@ -1,16 +1,22 @@
-# SimpleCodingPuzzles
+# Note about the Puzzles
 
-a collection of simple puzzles for the beginniner coder to get better at coding.
+You know, for me, the most important thing, always, are the basics. 
 
-read this [note](puzzlenote.md) about the puzzles themselves.
+In my experience as a tutor for more than 11 years (at the point of time when this repo was created), the biggest challenge for a lot of students is applying the coding concepts to actual software development. 
 
-if you want to contribute, [read here](contribute.md) for details.
+To me, the journey to software development is something like this.
 
-# Key folders
+1. learn the coding concepts
+1. apply these coding concepts to practice with simple puzzles
+1. apply these coding concepts to practice by building full fledged projects, small and big. 
 
-1. [ThePuzzles](ThePuzzles)
-1. [SolutionsJavaScript](SolutionsJavaScript)
-1. [SolutionsCsharp](SolutionsCsharp)
+The puzzles in this repository are a mix of many things. Majority of them are borrowed from other sources like MDN or free code camp or Project Odin. Sometimes, I randomly come up with puzzles as I go about my life as a coding tutor, generated puzzle ideas in my head. A lot of times, puzzles are simply remixes of earlier puzzles.
+
+Whenever I am borrowing or directly inspired by an online source, I will aways put a link back or a reference. 
+
+Ultimately, these puzzles are meant for beginners only. These are not meant to help you get a job or get high scores in coding competitions. my ambtion and purpose is not those things.
+
+Rather, act as a helping hand for those who are struggling to find simple ways to apply what they are learning before moving on to more complex challenges ahead. 
 
 # Hire Me
 
