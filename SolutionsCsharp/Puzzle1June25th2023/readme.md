@@ -2,7 +2,6 @@
 
 Solving this simple puzzle. 
 
-
 # Hire Me
 
 My name is Nikhil Fenwick. 
