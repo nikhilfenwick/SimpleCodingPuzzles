@@ -14,16 +14,34 @@
 
 // 1. Use the ReturnRandomNumber function to generate 99 random numbers.
 // 2. Store these 99 numbers in an array.
-// 1. Display the array.
+// 3. Display the array.
 
 int ReturnRandomNumber (){
-    Console.WriteLine("This function creates a random number between 1 and 10");
+    // Console.WriteLine("This function creates a random number between 1 and 99");
     Random rnd = new Random();
-    int resultOfRandomNumber = rnd.Next(0, 10);
+    int resultOfRandomNumber = rnd.Next(0, 99);
     return resultOfRandomNumber;
 }
 
 int resultOfFunction = ReturnRandomNumber();
 Console.WriteLine(resultOfFunction);
 
+// Substep One - Create a for loop to loop 99 times. 
+// Substep Two - Call the ReturnRandomNumber function inside the loop. 
 
+int[] Storing99Values = new int[99];
+
+for(int i = 0; i < 99; i++){
+    int resultOfFunction1 = ReturnRandomNumber();
+// 1. Use the ReturnRandomNumber function to generate 99 random numbers. - DONE. 
+
+  Storing99Values[i] = resultOfFunction1; 
+
+// 2. Store these 99 numbers in an array - DONE. 
+
+}
+
+for(int i = 0; i < 99; i++){
+    Console.WriteLine(Storing99Values[i]);
+
+}
