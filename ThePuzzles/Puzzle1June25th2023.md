@@ -20,6 +20,14 @@ Step Three
 1. store these 99 numbers in an array.
 1. display the array.
 
+Step Four
+
+1. improve the display to something like "random number 1 is: x", "random number 2 is : x" and so on ...
+
+Step Five
+
+1. put the code in Step Three and Step Four into a single function called 'NinetyNineRandomNumbersGenerateandDisplay'
+
 # general notes
 
 1. do it either in javascript or c sharp.
