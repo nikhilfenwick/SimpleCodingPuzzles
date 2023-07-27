@@ -5,6 +5,7 @@ Welcome to my humble puzzle collection.
 # List of Puzzles
 
 1. [Puzzle1June25th2023](Puzzle1June25th2023.md)
+2. [Puzzle2June27th2023](Puzzle2June27th2023.md)
 
 # Hire Me
 
