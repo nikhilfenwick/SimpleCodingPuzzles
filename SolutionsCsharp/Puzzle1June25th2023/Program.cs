@@ -6,7 +6,7 @@
 // 2. Make sure the random number is between 0 and 10.
 // 3. Display the random number on the output
 
-// Step Two
+// Step Two - 
 
 // 1. Update the code in Step One, and turn it into a function called 'ReturnRandomNumber'.
 
@@ -15,6 +15,15 @@
 // 1. Use the ReturnRandomNumber function to generate 99 random numbers.
 // 2. Store these 99 numbers in an array.
 // 3. Display the array.
+
+// Step Four - 
+
+// 1. Improve the display to something like "random number 1 is: x", "random number 2 is : x" and so on.
+
+// Step Five - 
+
+// 1. Put the code in Step Three and Step Four into a single function called 'NinetyNineRandomNumbersGenerateandDisplay'
+
 
 int ReturnRandomNumber (){
     // Console.WriteLine("This function creates a random number between 1 and 99");
@@ -41,7 +50,18 @@ for(int i = 0; i < 99; i++){
 
 }
 
+// for(int i = 0; i < 99; i++){
+    
+//     i = 0;
+//     i += 1;
+//     Console.WriteLine("The Random Number " + i + " is " + Storing99Values[i]);
+
+// }
+
+
 for(int i = 0; i < 99; i++){
-    Console.WriteLine(Storing99Values[i]);
+    int sp = i;
+    sp ++;
+    Console.WriteLine("The Random Number " + sp + " is " + Storing99Values[i]);
 
 }
